@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ka1ashnikov
 - 👀 I’m interested Python programming.
-- 🌱 I’m currently learning Django, Aiogram
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Django, Aiogram, SQL
 - 📫 How to reach me tg: @kalashni_kov
 
 <!---
